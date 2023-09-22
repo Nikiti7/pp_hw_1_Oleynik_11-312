@@ -1,3 +1,5 @@
 def plus(a,d):
     return a + d
-print(plus(10,5))
+def minus(c,b):
+    return b - c
+print(plus(10,5) - minus(10,20))
